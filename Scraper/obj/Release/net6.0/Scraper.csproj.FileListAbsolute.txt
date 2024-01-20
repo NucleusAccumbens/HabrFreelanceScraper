@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\bin\Release\net6.0\Scraper.deps.json
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\bin\Release\net6.0\Scraper.dll
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\bin\Release\net6.0\Scraper.pdb
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\Scraper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\Scraper.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\Scraper.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\Scraper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\Scraper.dll
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\refint\Scraper.dll
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\Scraper.pdb
+C:\Users\User\Desktop\Projects\sturtups\habr.scraper\HabrScraper\Scraper\obj\Release\net6.0\ref\Scraper.dll
